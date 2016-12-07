@@ -3,7 +3,7 @@
 ICSL drone flight project team
 
 ### Members ###
-+ Hoseong Seo
++ Hoseong Seo.
 ⋅⋅- email : hosung9009@gmail.com
-+ Youngdong Clark Son
++ Youngdong Clark Son.
 ⋅⋅- email : clark.y.d.son@gmail.com
